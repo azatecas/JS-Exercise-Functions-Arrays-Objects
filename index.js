@@ -261,7 +261,7 @@ function getOlderCars(arr1, num) {
   for (i = 0; i < arr1.length; i++){    
     const vss = arr1[i].car_year;
     if (num >= vss){
-      myVar.push(vss);
+      myVar.push(arr1);
     }
 
   }
