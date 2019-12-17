@@ -324,7 +324,7 @@ const argTimesTwo = num => num * 2;
  *     it has an `odometer` property that contains the argument passed in.
  *     it has a `drive` method that takes a distance as its argument, and
  *         (1) causes the odometer in the object to be increased by the distance,
- *         (2) returns the updated value of the `odometer`.
+ *         (2) returns the updated value  of the `odometer`.
 */
 function carMaker(/* code here */) {
   /* code here */
